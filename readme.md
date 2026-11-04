@@ -1,4 +1,4 @@
-# Awesome Personal Blogs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Personal Blogs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/discord/754001738184392704?logo=discord&label=Discord)](https://discord.skerritt.blog)
 
 > A delightful list of personal tech blogs
 
